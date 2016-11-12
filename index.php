@@ -1,1 +1,1 @@
-<?php include_once("yourFileNameHere"); ?>
+<?php include_once("indx.html"); ?>
